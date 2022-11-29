@@ -1,2 +1,2 @@
 # TriSpcModel
-Code for "Managing for thermal guild interactions in warming food webs"
+Code for "Species control as an adaptation for managing thermal guild interactions in warming food webs"
